@@ -7,8 +7,8 @@ ORG:Sensolabs Spa;
 TITLE:Co-Founder\nChief Innovation Officer
 EMAIL;type=INTERNET;type=WORK;type=pref:jpark@sensolabs.cl
 TEL;type=WORK;type=VOICE:+569 9389 9708
-item1.ADR;type=WORK;type=pref:;;Guardia Vieja View\nSandcrawler\, 202;;;Providencia;Santiago
-item1.X-ABADR:sg
+item1.ADR;type=WORK;type=pref:;;Guardia Vieja 202\nOficina 404;;;Providencia;Santiago
+item1.X-ABADR:cl
 item2.URL;type=pref:www.sensolabs.cl
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
